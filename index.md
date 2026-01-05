@@ -29,7 +29,7 @@ I am a **Google Certified Data Analyst** specialized in processing large-scale d
 ---
 
 ### 🛒 Online Retail: Customer Segmentation
-**The Problem:** Identifying high-value customers in a dataset of **500k+ transactions**.
+**The Problem:** Identifying high-value customers in a dataset of **500k+ transactions**.  
 **The Result:** I performed RFM (Recency, Frequency, Monetary) analysis, segmenting customers into 5 distinct personas for targeted marketing.
 
 [View Case Study](/retail-analysis/){: .btn .btn--info}
