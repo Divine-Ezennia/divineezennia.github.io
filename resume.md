@@ -8,30 +8,30 @@ author_profile: true
 <a href="/assets/documents/divine-ezennia-resume.pdf" class="btn btn--success btn--large" download>⬇️ Download Full Resume (PDF)</a>
 
 ### 📊 Professional Summary
-[cite_start]Quantitatively-driven Data Analyst with a rigorous foundation in Mathematics and Physics. [cite_start]Expert at dissecting complex systems into actionable insights, bridging the gap between meticulous statistical analysis and human-centric storytelling[cite: 1].
+Quantitatively-driven Data Analyst with a rigorous foundation in Mathematics and Physics. Expert at dissecting complex systems into actionable insights, bridging the gap between meticulous statistical analysis and human-centric storytelling.
 
 ### 🛠 Technical Stack
-* [cite_start]**Languages:** SQL (BigQuery), R (tidyverse, ggplot2)[cite: 1, 2].
-* **Visualization:** Tableau, Advanced Excel/Google Sheets[cite: 1, 2].
-* [cite_start]**Methodologies:** RFM Modeling, Statistical Hypothesis Testing, EDA.
+* **Languages:** SQL (BigQuery), R (tidyverse, ggplot2).
+* **Visualization:** Tableau, Advanced Excel/Google Sheets.
+* **Methodologies:** RFM Modeling, Statistical Hypothesis Testing, EDA.
 
 ### 🚀 Key Data Projects
 **Cyclistic Bike-Share Analysis | Lead Analyst**
-* [cite_start]Processed **1.9M+ rows** of trip data using SQL, ensuring 99.9% integrity.
+* Processed **1.9M+ rows** of trip data using SQL, ensuring 99.9% integrity.
 * Identified usage patterns projected to drive a **15% increase** in memberships.
-* [cite_start]Applied physics-based principles of systemic flow to model ridership behavior.
+* Applied physics-based principles of systemic flow to model ridership behavior.
 
 **Online Retail Customer Analysis | Lead Analyst**
-* [cite_start]Segmented **500k+ transactions** into high-value cohorts using RFM modeling[cite: 1, 2].
+* Segmented **500k+ transactions** into high-value cohorts using RFM modeling.
 * Uncovered a **20% untapped revenue opportunity** through seasonal correlation.
 
 ### 💼 Professional Experience
 **Customer Service Representative | Divine Uche-Pat Venture**
-* [cite_start]Resolved **50+ complex inquiries daily** with a 95% positive feedback rating.
-* [cite_start]Developed "Analytical Empathy" used to interpret and clean "messy" human-generated data.
+* Resolved **50+ complex inquiries daily** with a 95% positive feedback rating.
+* Developed "Analytical Empathy" used to interpret and clean "messy" human-generated data.
 
 ### 🎓 Education & Certifications
 * **Google Data Analytics Professional Certificate** | 2025.
-* **B.Eng. Mechanical Engineering** | Ahmadu Bello University Zaria | [cite_start]100-Level.
+* **B.Eng. Mechanical Engineering** | Ahmadu Bello University Zaria | 100-Level.  
 
 *Looking for a reliable remote analyst? My home office is configured for 24/7 uptime to sync with EST/CET/GMT time zones.*
