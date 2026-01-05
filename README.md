@@ -3,7 +3,6 @@ layout: home
 author_profile: true
 title: "Data Analytics Portfolio"
 header:
-  image: /assets/images/header-main.jpg
   overlay_color: "#000"
   overlay_filter: "0.5"
 excerpt: "Turning complex data into actionable business strategy."
