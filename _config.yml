@@ -4,6 +4,7 @@ repository: "Divine-Ezennia/divine-ezennia.github.io"
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 
 # Site Settings
+main_navigation: main
 locale: "en-US"
 header:
   overlay_filter: 0.5 
