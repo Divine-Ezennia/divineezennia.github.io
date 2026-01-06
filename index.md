@@ -18,7 +18,8 @@ I am a **Google Certified Data Analyst** specialized in processing large-scale d
 
 ---
 
-## <h2 id="featured-projects">🚀 Featured Case Studies</h2>  
+<a name="featured-projects"></a>
+## 🚀 Featured Case Studies  
 
 ### 🚲 Cyclistic: Strategic Insights for Growth Conversion
 **The Problem:** How can a bike-share company convert casual riders into annual members?
@@ -36,7 +37,8 @@ I am a **Google Certified Data Analyst** specialized in processing large-scale d
 
 ---
 
-## <h2 id="remote-ready-infrastructure">🛠 Remote-Ready Infrastructure</h2>  
+<a name="remote-ready-infrastructure"></a>
+🛠 Remote-Ready Infrastructure  
 I operate from a **fully redundant home office** designed for seamless collaboration with global teams:
 * **Power:** 24/7 uptime via Solar + Inverter backup.
 * **Connectivity:** High-speed Fiber Optic internet.
