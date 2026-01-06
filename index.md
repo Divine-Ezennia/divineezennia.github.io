@@ -13,8 +13,8 @@ excerpt: "Mechanical Engineering student bridging the gap between physical syste
 ## 🏆 Certified Professional
 I am a **Google Certified Data Analyst** specialized in processing large-scale datasets to drive business growth.
 
-![Google Data Analytics Certificate](/assets/images/google-data-analytics-cert.pdf)
-*View my verified credentials on Coursera.*
+[![Google Data Analytics Certificate](/assets/images/google-data-analytics-cert.jpg)](/assets/documents/google-data-analytics-cert.pdf)
+*Click to view official PDF verification.*
 
 ---
 
