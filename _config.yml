@@ -6,7 +6,7 @@ remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 # Site Settings
 main_navigation: main
 markdown: kramdown
-favicon: "/favicon"
+favicon: "/favicon.ico"
 locale: "en-US"
 header:
   overlay_filter: 0.5 
