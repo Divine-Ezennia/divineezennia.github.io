@@ -11,7 +11,15 @@ header:
 ---
 
 ## 🎯 The Business Task (Situation)
-As a Junior Data Analyst, I was tasked by **Lily Moreno (Director of Marketing)** to answer a critical business question: *How do annual members and casual riders use Cyclistic bikes differently?* The goal was to identify behavioral "hooks" that could be used to convert high-value casual riders into profitable annual members.
+As a Junior Data Analyst, I was tasked by **Lily Moreno (Director of Marketing)** to answer a critical business question: *How do annual members and casual riders use Cyclistic bikes differently?* The goal was to identify behavioral "hooks" that could be used to convert high-value casual riders into profitable annual members.  
+
+## 📐 Technical Architecture & Logic Mapping
+Before entering the BigQuery environment, I designed a technical blueprint to ensure data integrity across the 1.9M row dataset. This "Systems Engineering" approach allowed me to map the flow from raw source files to final executive insights, establishing the "Quality Gates" necessary for a high-precision analysis.
+
+<div style="text-align: center;">
+  <img src="/assets/images/cyclistic-planning-whiteboard.jpg" alt="Cyclistic Data Architecture" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  <p><em>Figure 1: Project Logic Map — Visualizing the ETL process, cleaning parameters, and the 3-pillar analysis strategy used to derive business value.</em></p>
+</div>
 
 ## 🛠 The Action: Engineering-Grade Data Processing
 In engineering, a system's output is only as reliable as its input. I treated the **1.97M+ unique records** (November 2024 – May 2025) as a fluid system where "flow" represents user movement.
@@ -42,7 +50,7 @@ My analysis uncovered **21 distinct strategic insights**, categorized into three
 ## 📊 Visualized Demand Patterns  
 <div style="text-align: center;">
   <img src="/assets/images/cyclistic-demand-chart.jpg" alt="Cyclistic Demand Analysis: Member vs. Casual Riders" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-  <p><em>Figure 1: Comparative analysis of ridership volume, highlighting the strategic 40% surge in casual riders during weekend intervals.</em></p>
+  <p><em>Figure 2: Comparative analysis of ridership volume, highlighting the strategic 40% surge in casual riders during weekend intervals.</em></p>
 </div>
 > *This visualization highlights the 'Weekend Cross-over'—the strategic window where casual ridership volume provides the highest conversion opportunity.*
 
