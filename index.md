@@ -37,7 +37,7 @@ I am a **Google Certified Data Analyst** specialized in processing large-scale d
 **The Objective:** Decoding customer loyalty and unit price elasticity within a global dataframe of **541,000+ transactions.**  
 **The Impact:** Engineered a multi-dimensional **RFM (Recency, Frequency, Monetary) model** to segment customers into actionable personas (Champions, At-Risk, Loyal). This analysis identifies high-value revenue drivers and provides a roadmap for targeted retention.
 
-[Explore Methodology on GitHub](https://github.com/Divine-Ezennia/Online-Retail-Analysis){: .btn .btn--primary} [Request Full HTML Report](mailto:ezennia.divine.bio@gmail.com){: .btn .btn--outline--info}  
+[Explore Methodology on GitHub](https://github.com/Divine-Ezennia/Online-Retail-Behavioral-Analysis){: .btn .btn--primary} [Request Full HTML Report](mailto:ezennia.divine.bio@gmail.com){: .btn .btn--outline--info}  
 
 ---
 
